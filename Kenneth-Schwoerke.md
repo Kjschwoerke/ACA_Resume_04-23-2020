@@ -6,7 +6,7 @@ fullname: Kenneth Schwoerke
 jobtitle: Student & Freelance Web Developer
 
 location: Austin, TX
-blurb: "Changing the world with Art and Code"
+blurb: "Changing The World With Art And Code"
 
 # first item must be C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
