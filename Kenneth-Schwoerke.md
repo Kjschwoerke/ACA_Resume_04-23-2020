@@ -23,8 +23,8 @@ skills:
   - WebPack
   - REST APIs
 
-github: https://github.com/your-username
-linkedin: https://www.linkedin.com/in/your-username
+github: https://github.com/Kjschwoerke
+linkedin: https://www.linkedin.com/in/kenneth-schwoerke/
 
 email: # kjschwoerke@yahoo.com
 phone: # (361) 563-8574
