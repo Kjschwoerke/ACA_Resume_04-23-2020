@@ -6,7 +6,7 @@ fullname: Kenneth Schwoerke
 jobtitle: Student & Freelance Web Developer
 
 location: Austin, TX
-blurb: "Changing the world one line of code at a time".
+blurb: "Changing the world with Art and Code"
 
 # first item must be C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
@@ -69,7 +69,7 @@ education:
 
   - name: Sam Houston State University
     dates: August 2003 - May 2006
-    degree: Bachelor of Fine Arts: Art -Advertising and Graphic Design
+    degree: Bachelor of Fine Arts: Art - Advertising and Graphic Design
 
   - name: The Art Institute of Houston
     dates: July 2001 - May 2003
